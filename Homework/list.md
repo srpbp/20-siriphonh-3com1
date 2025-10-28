@@ -59,3 +59,5 @@
 ## Storage & Misc
 
 - Multi-box / case
+
+![image](arduino-starter-kit.jpg)
