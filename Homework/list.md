@@ -9,7 +9,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນສະຖານີວັດແທກດິນຟ້າອາກາດ ເພື່ອເກັບກຳ ແລະ ສະແດງຂໍ້ມູນອຸນຫະພູມ ແລະ ຄວາມຊຸ່ມຊື່ນເທິງໜ້າຈໍ LCD.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/Arduino/arduino-board.jpg)
+![example.jpg](./Images/Arduino/Arduino_Uno.jpg)
 
 ### **Breadboard**
 
@@ -18,7 +18,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ສຳລັບການສ້າງແບບຈຳລອງວົງຈອນເຊັນເຊີວັດແທກອຸນຫະພູມແບບງ່າຍໆ ກ່ອນທີ່ຈະໂອນຍ້າຍໄປໃສ່ແຜ່ນວົງຈອນ PCB ຖາວອນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/Breadboard/breadboard.jpg)
+![example.jpg](./Images/Breadboard/breadboardnew.webp)
 
 ### **USB Cable**
 
@@ -27,7 +27,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອອັບໂຫລດໂປຣແກຣມ Arduino (ເຊັ່ນ: ການຄວບຄຸມມໍເຕີ Stepper) ຈາກຄອມພິວເຕີຂອງທ່ານໄປຍັງ Arduino.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/USB%20Cable/Usb.jpg)
+![example.jpg](./Images/USB%20Cable/usbnew.jpg)
 
 ---
 
@@ -40,7 +40,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ເຊັນເຊີກວດຈັບການເຄື່ອນໄຫວ PIR ເຂົ້າກັບ Arduino ສໍາລັບລະບົບກວດຈັບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/Jumprm2m/wire-m2m.jpg)
+![example.jpg](./Images/Jumprm2m/m2m.jpg)
 
 ### **Jumper Wires (Male-to-Female)**
 
@@ -89,7 +89,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສ້າງໄຟປ່ຽນສີໃນໂຄງການໄຟອັດສະລິຍະ, ເຊັ່ນ: ສໍາລັບການໃຫ້ແສງສະຫວ່າງຕາມບັນຍາກາດ ຫຼື ການຄວບຄຸມແສງສະຫວ່າງໃນຫ້ອງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/RGB%20Module/RGB%20Module.jpg)
+![example.jpg](./Images/RGB%20Module/rgbmodule.webp)
 
 ### **Resistors (220Ω, 1kΩ, 10kΩ)**
 
@@ -98,7 +98,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອຈຳກັດກະແສໄຟຟ້າໄປຍັງໄຟ LED ໃນວົງຈອນໄຟກະພິບ ເພື່ອປ້ອງກັນບໍ່ໃຫ້ມັນໄໝ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Images/Resistors/Resistors%20(220Ω,%201kΩ,%2010kΩ).jpg>)
+![example.jpg](./Images/Resistors/resistor.jpeg)
 
 ### **Push Buttons (x4 with Lids)**
 
@@ -107,7 +107,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພແບບງ່າຍໆ ທີ່ການກົດປຸ່ມສາມາດກະຕຸ້ນສຽງເຕືອນ ຫຼື ປິດລະບົບ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Images/Push%20Buttons/Push%20Buttons%20(x4%20with%20Lids).jpg>)
+![example.jpg](./Images/Push%20Buttons/btn.jpg)
 
 ### **Potentiometer (5kΩ)**
 
@@ -116,7 +116,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນປຸ່ມໝູນປັບລະດັບສຽງໃນເຄື່ອງຫຼິ້ນສຽງ ຫຼື ເປັນຕົວປັບຄວາມສະຫວ່າງສຳລັບລະບົບແສງສະຫວ່າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/Potentiometer/Potentiometer%20(5kΩ).jpeg)
+![example.jpg](./Images/Potentiometer/Potentiometer.jpeg)
 
 ### **Active Buzzer**
 
@@ -268,7 +268,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບສັນຍານເຕືອນໄຟ ເພື່ອກະຕຸ້ນການແຈ້ງເຕືອນເມື່ອກວດພົບໄຟ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/Flame%20Sensor/Flame%20Sensor.jpg)
+![example.jpg](./Images/Flame%20Sensor/fsensor.jpg)
 
 ### **RFID Module**
 
@@ -277,7 +277,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຄວບຄຸມການເຂົ້າເຖິງ ເພື່ອອະນຸຍາດໃຫ້ເຂົ້າໄດ້ເມື່ອກວດພົບແທັກ RFID.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Images/RFID%20Module/RFID%20Module.jpg)
+![example.jpg](./Images/RFID%20Module/rfidmodule.webp)
 
 ### **RFID Tag**
 
