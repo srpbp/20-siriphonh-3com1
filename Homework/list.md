@@ -9,7 +9,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນສະຖານີວັດແທກດິນຟ້າອາກາດ ເພື່ອເກັບກຳ ແລະ ສະແດງຂໍ້ມູນອຸນຫະພູມ ແລະ ຄວາມຊຸ່ມຊື່ນເທິງໜ້າຈໍ LCD.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Images/Arduino/arduino-board.jpg)
 
 ### **Breadboard**
 
@@ -18,7 +18,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ສຳລັບການສ້າງແບບຈຳລອງວົງຈອນເຊັນເຊີວັດແທກອຸນຫະພູມແບບງ່າຍໆ ກ່ອນທີ່ຈະໂອນຍ້າຍໄປໃສ່ແຜ່ນວົງຈອນ PCB ຖາວອນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Breadboard/breadboard.jpg)
+![example.jpg](./Images/Breadboard/breadboard.jpg)
 
 ### **USB Cable**
 
@@ -27,7 +27,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອອັບໂຫລດໂປຣແກຣມ Arduino (ເຊັ່ນ: ການຄວບຄຸມມໍເຕີ Stepper) ຈາກຄອມພິວເຕີຂອງທ່ານໄປຍັງ Arduino.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./USB%20Cable/Usb.jpg)
+![example.jpg](./Images/USB%20Cable/Usb.jpg)
 
 ---
 
@@ -40,7 +40,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ເຊັນເຊີກວດຈັບການເຄື່ອນໄຫວ PIR ເຂົ້າກັບ Arduino ສໍາລັບລະບົບກວດຈັບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Jumprm2m/wire-m2m.jpg)
+![example.jpg](./Images/Jumprm2m/wire-m2m.jpg)
 
 ### **Jumper Wires (Male-to-Female)**
 
@@ -49,7 +49,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ໂມດູນເຊັນເຊີອຸນຫະພູມເຂົ້າກັບແຜ່ນວົງຈອນ Arduino Uno.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Jumprm2f/jumper%20wire%20male-to-female.jpeg)
+![example.jpg](./Images/Jumprm2f/jumper%20wire%20male-to-female.jpeg)
 
 ### **Jumper Wires (Female-to-Female)**
 
@@ -58,7 +58,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ໂມດູນ RGB LED ເຂົ້າກັບແຜ່ນວົງຈອນທົດລອງ ແລະ Arduino.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Jumprf2f/Jumper%20Wires%20Female-to-Female.jpeg)
+![example.jpg](./Images/Jumprf2f/Jumper%20Wires%20Female-to-Female.jpeg)
 
 ### **9V Battery Connector**
 
@@ -67,7 +67,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການ Arduino ແບບພົກພາ ທີ່ບໍ່ມີພະລັງງານ USB ໃຫ້ໃຊ້, ເຊັ່ນ: ສະຖານີວັດແທກດິນຟ້າອາກາດແບບໄຮ້ສາຍ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./9V%20Battery%20Connector/9V%20Battery%20Connector.jpeg)
+![example.jpg](./Images/9V%20Battery%20Connector/9V%20Battery%20Connector.jpeg)
 
 ---
 
@@ -80,7 +80,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງສະຖານະຂອງອຸປະກອນ IoT, ເຊັ່ນ: ສະແດງເວລາທີ່ລະບົບຖືກເປີດ (ໄຟ LED ສີຂຽວ), ກຳລັງໃຊ້ງານ (ໄຟ LED ສີເຫຼືອງ), ຫຼື ເກີດຂໍ້ຜິດພາດ (ໄຟ LED ສີແດງ).
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./LEDs/LEDs%20(Red,%20Yellow,%20Blue,%20RGB).jpeg>)
+![example.jpg](<./Images/LEDs/LEDs%20(Red,%20Yellow,%20Blue,%20RGB).jpeg>)
 
 ### **RGB Module**
 
@@ -89,7 +89,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສ້າງໄຟປ່ຽນສີໃນໂຄງການໄຟອັດສະລິຍະ, ເຊັ່ນ: ສໍາລັບການໃຫ້ແສງສະຫວ່າງຕາມບັນຍາກາດ ຫຼື ການຄວບຄຸມແສງສະຫວ່າງໃນຫ້ອງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./RGB%20Module/RGB%20Module.jpg)
+![example.jpg](./Images/RGB%20Module/RGB%20Module.jpg)
 
 ### **Resistors (220Ω, 1kΩ, 10kΩ)**
 
@@ -98,7 +98,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອຈຳກັດກະແສໄຟຟ້າໄປຍັງໄຟ LED ໃນວົງຈອນໄຟກະພິບ ເພື່ອປ້ອງກັນບໍ່ໃຫ້ມັນໄໝ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Resistors/Resistors%20(220Ω,%201kΩ,%2010kΩ).jpg>)
+![example.jpg](<./Images/Resistors/Resistors%20(220Ω,%201kΩ,%2010kΩ).jpg>)
 
 ### **Push Buttons (x4 with Lids)**
 
@@ -107,7 +107,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພແບບງ່າຍໆ ທີ່ການກົດປຸ່ມສາມາດກະຕຸ້ນສຽງເຕືອນ ຫຼື ປິດລະບົບ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Push%20Buttons/Push%20Buttons%20(x4%20with%20Lids).jpg>)
+![example.jpg](<./Images/Push%20Buttons/Push%20Buttons%20(x4%20with%20Lids).jpg>)
 
 ### **Potentiometer (5kΩ)**
 
@@ -116,7 +116,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນປຸ່ມໝູນປັບລະດັບສຽງໃນເຄື່ອງຫຼິ້ນສຽງ ຫຼື ເປັນຕົວປັບຄວາມສະຫວ່າງສຳລັບລະບົບແສງສະຫວ່າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Potentiometer/Potentiometer%20(5kΩ).jpeg)
+![example.jpg](./Images/Potentiometer/Potentiometer%20(5kΩ).jpeg)
 
 ### **Active Buzzer**
 
@@ -125,7 +125,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສົ່ງສຽງເຕືອນເມື່ອເຊັນເຊີກວດຈັບການເຄື່ອນໄຫວຖືກກະຕຸ້ນໃນລະບົບຮັກສາຄວາມປອດໄພໃນເຮືອນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./active%20buzzers/active%20buzzers.jpeg)
+![example.jpg](./Images/active%20buzzers/active%20buzzers.jpeg)
 
 ### **Passive Buzzer**
 
@@ -134,7 +134,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການຈັບເວລາ ເພື່ອສົ່ງສຽງບີບຫາຜູ້ໃຊ້ເມື່ອໝົດເວລາ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./passive%20buzzer/passive%20buzzer.jpeg)
+![example.jpg](./Images/passive%20buzzer/passive%20buzzer.jpeg)
 
 ---
 
@@ -147,7 +147,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງຄ່າອຸນຫະພູມທີ່ອ່ານໄດ້ຈາກເຊັນເຊີ DHT11 ໃນລະບົບຕິດຕາມສະພາບອາກາດ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./16x2%20lcd%20display/16x2%20lcd%20display.jpeg)
+![example.jpg](./Images/16x2%20lcd%20display/16x2%20lcd%20display.jpeg)
 
 ### **I2C Serial Adapter Board Module**
 
@@ -156,7 +156,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ກັບ LCD ເພື່ອປະຢັດຂາ ແລະ ອະນຸຍາດໃຫ້ສື່ສານງ່າຍຂຶ້ນສຳລັບການສະແດງຂໍ້ມູນໃນໂຄງການ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./I2C%20Serial%20Adapter%20Board%20Module/I2C%20Serial%20Adapter%20Board%20Module.jpeg)
+![example.jpg](./Images/I2C%20Serial%20Adapter%20Board%20Module/I2C%20Serial%20Adapter%20Board%20Module.jpeg)
 
 ### **7-Segment Display (Common Cathode +)**
 
@@ -165,7 +165,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂມງດິຈິຕອລແບບງ່າຍໆ ເພື່ອສະແດງເວລາໃນຮູບແບບ 24 ຊົ່ວໂມງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./7-Segment%20Display/7-Segment%20Display%20(Common%20Cathode%20+).jpeg>)
+![example.jpg](<./Images/7-Segment%20Display/7-Segment%20Display%20(Common%20Cathode%20+).jpeg>)
 
 ### **4-Digit 7-Segment Display**
 
@@ -174,7 +174,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການນັບຖອຍຫຼັງ ເພື່ອສະແດງເວລາທີ່ຍັງເຫຼືອ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./4-Digit%207-Segment%20Display/4-Digit%207-Segment%20Display.jpeg)
+![example.jpg](./Images/4-Digit%207-Segment%20Display/4-Digit%207-Segment%20Display.jpeg)
 
 ### **8x8 Dot Matrix Display**
 
@@ -183,7 +183,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງຂໍ້ຄວາມເລື່ອນ ຫຼື ອານິເມຊັນ, ເຊັ່ນ: ການສະແດງຂໍ້ຄວາມ ຫຼື ຮູບພາບທີ່ກຳນົດເອງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./8x8%20Dot%20Matrix%20Display/8x8%20Dot%20Matrix%20Display.jpeg)
+![example.jpg](./Images/8x8%20Dot%20Matrix%20Display/8x8%20Dot%20Matrix%20Display.jpeg)
 
 ---
 
@@ -196,7 +196,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບອັດຕະໂນມັດໃນເຮືອນ ເພື່ອຄວບຄຸມພັດລົມໂດຍອີງໃສ່ອຸນຫະພູມຫ້ອງ ແລະ ລະດັບຄວາມຊຸ່ມຊື່ນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Temperature/Temperature%20and%20Humidity%20Sensor%20(DHT11).jpeg>)
+![example.jpg](<./Images/Temperature/Temperature%20and%20Humidity%20Sensor%20(DHT11).jpeg>)
 
 ### **LM35 Temperature Sensor**
 
@@ -205,7 +205,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຕິດຕາມພືດ ເພື່ອວັດແທກອຸນຫະພູມຂອງດິນ ແລະ ຄວບຄຸມການຊົນລະປະທານ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./LM35%20Temperature%20Sensor/LM35%20Temperature%20Sensor.jpeg)
+![example.jpg](./Images/LM35%20Temperature%20Sensor/LM35%20Temperature%20Sensor.jpeg)
 
 ### **Tilt Sensor (x2)**
 
@@ -214,7 +214,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບເປີດປະຕູອັດຕະໂນມັດ ທີ່ເປີດເມື່ອເຊັນເຊີກວດຈັບການອຽງກວດພົບຄົນຍ່າງເຂົ້າໃກ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Tilt%20Sensor/Tilt%20Sensor%20(x2).jpeg>)
+![example.jpg](<./Images/Tilt%20Sensor/Tilt%20Sensor%20(x2).jpeg>)
 
 ### **Photoresistor (LDRs x3)**
 
@@ -223,7 +223,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໄຟອັດຕະໂນມັດ ທີ່ເປີດ ຫຼື ປິດໄຟໂດຍອີງໃສ່ລະດັບແສງອ້ອມຂ້າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Photoresistor/Photoresistor%20(LDRs%20x3).jpeg>)
+![example.jpg](<./Images/Photoresistor/Photoresistor%20(LDRs%20x3).jpeg>)
 
 ### **PIR Sensor**
 
@@ -232,7 +232,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພ ເພື່ອກະຕຸ້ນສັນຍານເຕືອນ ຫຼື ໄຟ ເມື່ອກວດພົບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./PIR%20Sensor/PIR%20Sensor.jpeg)
+![example.jpg](./Images/PIR%20Sensor/PIR%20Sensor.jpeg)
 
 ### **Ultrasonic Module**
 
@@ -241,7 +241,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນຫຸ່ນຍົນເພື່ອຫຼີກລ້ຽງອຸປະສັກ ໂດຍການວັດແທກໄລຍະທາງໄປຫາວັດຖຸໃນເສັ້ນທາງຂອງມັນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Ultrasonic%20Module/Ultrasonic%20Module.jpeg)
+![example.jpg](./Images/Ultrasonic%20Module/Ultrasonic%20Module.jpeg)
 
 ### **Sound Sensor**
 
@@ -250,7 +250,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນການສະແດງແສງທີ່ກະຕຸ້ນດ້ວຍສຽງ ທີ່ປ່ຽນໄຟໂດຍອີງໃສ່ສຽງເພງ ຫຼື ລະດັບສຽງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Sound%20Sensor/Sound%20Sensor.jpeg)
+![example.jpg](./Images/Sound%20Sensor/Sound%20Sensor.jpeg)
 
 ### **Water Sensor**
 
@@ -259,7 +259,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບການຫົດນ້ຳສວນ ເພື່ອກວດຈັບຄວາມຊຸ່ມຊື່ນຂອງດິນ ແລະ ເປີດໃຊ້ການຫົດນ້ຳເມື່ອຈຳເປັນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Water%20Sensor/Water%20Sensor.jpeg)
+![example.jpg](./Images/Water%20Sensor/Water%20Sensor.jpeg)
 
 ### **Flame Sensor**
 
@@ -268,7 +268,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບສັນຍານເຕືອນໄຟ ເພື່ອກະຕຸ້ນການແຈ້ງເຕືອນເມື່ອກວດພົບໄຟ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Flame%20Sensor/Flame%20Sensor.jpg)
+![example.jpg](./Images/Flame%20Sensor/Flame%20Sensor.jpg)
 
 ### **RFID Module**
 
@@ -277,7 +277,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຄວບຄຸມການເຂົ້າເຖິງ ເພື່ອອະນຸຍາດໃຫ້ເຂົ້າໄດ້ເມື່ອກວດພົບແທັກ RFID.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./RFID%20Module/RFID%20Module.jpg)
+![example.jpg](./Images/RFID%20Module/RFID%20Module.jpg)
 
 ### **RFID Tag**
 
@@ -286,7 +286,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນບັດປະຈຳຕົວສຳລັບລະບົບຮັກສາຄວາມປອດໄພ, ອະນຸຍາດໃຫ້ບຸກຄະລາກອນທີ່ໄດ້ຮັບອະນຸຍາດເຂົ້າໂດຍການສະແກນແທັກ RFID.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./RFID%20Tag/RFID%20Tag.jpeg)
+![example.jpg](./Images/RFID%20Tag/RFID%20Tag.jpeg)
 
 ---
 
@@ -299,7 +299,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໂຮມເທຍເຕີ ເພື່ອຄວບຄຸມໂທລະທັດ ຫຼື ລະບົບສຽງຈາກໄລຍະໄກ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Infrared%20Remote%20Control/Infrared%20Remote%20Control.jpeg)
+![example.jpg](./Images/Infrared%20Remote%20Control/Infrared%20Remote%20Control.jpeg)
 
 ### **Joystick Module**
 
@@ -308,7 +308,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນຫຸ່ນຍົນເພື່ອຄວບຄຸມການເຄື່ອນໄຫວໂດຍອີງໃສ່ການປ້ອນເຂົ້າຈາກ joystick.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Joystick%20Module/Joystick%20Module.jpeg)
+![example.jpg](./Images/Joystick%20Module/Joystick%20Module.jpeg)
 
 ### **4x4 Matrix Keyboard Module**
 
@@ -317,7 +317,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພ ເພື່ອປ້ອນລະຫັດຜ່ານ ແລະ ປົດລັອກປະຕູ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./4x4%20Matrix%20Keyboard%20Module/4x4%20Matrix%20Keyboard%20Module.jpeg)
+![example.jpg](./Images/4x4%20Matrix%20Keyboard%20Module/4x4%20Matrix%20Keyboard%20Module.jpeg)
 
 ### **Relay Module**
 
@@ -326,7 +326,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໄຟອັດຕະໂນມັດໃນເຮືອນ ເພື່ອຄວບຄຸມໄຟໂດຍອີງໃສ່ເວລາຂອງມື້ ຫຼື ການກວດຈັບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Relay%20Module/Relay%20Module.jpeg)
+![example.jpg](./Images/Relay%20Module/Relay%20Module.jpeg)
 
 ---
 
@@ -339,7 +339,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນແຂນຫຸ່ນຍົນ ເພື່ອຄວບຄຸມການເຄື່ອນໄຫວຂອງມັນໃນວຽກງານການຜະລິດ ຫຼື ການປະກອບ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Servo%20Motor/Servo%20Motor.jpeg)
+![example.jpg](./Images/Servo%20Motor/Servo%20Motor.jpeg)
 
 ### **Stepper Motor**
 
@@ -348,7 +348,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນເຄື່ອງພິມ 3D ເພື່ອຍ້າຍຫົວພິມດ້ວຍຄວາມຖືກຕ້ອງສູງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Stepper%20Motor/Stepper%20Motor.jpeg)
+![example.jpg](./Images/Stepper%20Motor/Stepper%20Motor.jpeg)
 
 ### **Stepper Motor Driver Board**
 
@@ -357,7 +357,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອຄວບຄຸມມໍເຕີ Stepper ໃນເຄື່ອງຈັກ CNC ຫຼື ເຄື່ອງພິມ 3D.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Stepper%20Motor%20Driver%20Board/Stepper%20Motor%20Driver%20Board.jpeg)
+![example.jpg](./Images/Stepper%20Motor%20Driver%20Board/Stepper%20Motor%20Driver%20Board.jpeg)
 
 ---
 
@@ -370,7 +370,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບການຕິດຕາມເວລາສຳລັບໂຄງການ ຫຼື ຕາຕະລາງເຫດການ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Clock%20Module/Real-time%20Clock%20Module%20DS1302%20Image.jpeg)
+![example.jpg](./Images/Clock%20Module/Real-time%20Clock%20Module%20DS1302%20Image.jpeg)
 
 ### **74HC595 Chip**
 
@@ -379,4 +379,4 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການເພື່ອຄວບຄຸມ matrix ຂອງໄຟ LED ຂະໜາດໃຫຍ່ສຳລັບຜົນກະທົບທາງສາຍຕາ ຫຼື ໜ້າຈໍສະແດງຜົນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./74HC595%20Chip/74HC595%20Chip.jpeg)
+![example.jpg](./Images/74HC595%20Chip/74HC595%20Chip.jpeg)
