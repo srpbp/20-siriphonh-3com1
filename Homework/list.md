@@ -11,6 +11,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Arduino/Arduino_Uno.jpg)
 
+Pinout Guide:
+![example.jpg](./Images/Arduino/Arduino-board-pinout.jpg)
+
 ### **Breadboard**
 
 - **ລາຍລະອຽດ**: ແຜ່ນວົງຈອນທົດລອງອະນຸຍາດໃຫ້ທ່ານສ້າງວົງຈອນໂດຍບໍ່ຕ້ອງບັດກີ, ໂດຍໃຊ້ຮູເພື່ອໃສ່ອົງປະກອບຕ່າງໆ.
@@ -20,6 +23,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Breadboard/breadboardnew.webp)
 
+Pinout Guide:
+![example.jpg](./Images/Breadboard/Breadboard%20Pinout%20Guide.png)
+
 ### **USB Cable**
 
 - **ລາຍລະອຽດ**: ສາຍ USB A ຫາ B ເຊື່ອມຕໍ່ແຜ່ນວົງຈອນ Arduino ຂອງທ່ານກັບຄອມພິວເຕີ ເພື່ອອັບໂຫລດໂຄດ ແລະ ສະໜອງພະລັງງານໃຫ້ແກ່ແຜ່ນວົງຈອນ.
@@ -28,6 +34,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/USB%20Cable/usbnew.jpg)
+
+Pinout Guide:
+![example.jpg](./Images/USB%20Cable/USB%20Cable%20Pinout%20Guide.webp)
 
 ---
 
@@ -82,6 +91,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](<./Images/LEDs/LEDs%20(Red,%20Yellow,%20Blue,%20RGB).jpeg>)
 
+Pinout Guide:
+![example.jpg](./Images/LEDs/ledp.jpg)
+
 ### **RGB Module**
 
 - **ລາຍລະອຽດ**: ໂມດູນທີ່ມີໄຟ LED ສີແດງ, ສີຂຽວ, ແລະ ສີຟ້າ ເພື່ອຜະລິດສີຕ່າງໆ.
@@ -90,6 +102,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/RGB%20Module/rgbmodule.webp)
+
+Pinout Guide:
+![example.jpg](./Images/LEDs/leds_pinout.png)
 
 ### **Resistors (220Ω, 1kΩ, 10kΩ)**
 
@@ -100,6 +115,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Resistors/resistor.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Resistors/Resistor%20Pinout.png)
+
 ### **Push Buttons (x4 with Lids)**
 
 - **ລາຍລະອຽດ**: ຊຸດປຸ່ມຕ່າງໆທີ່ສາມາດກົດເພື່ອສົ່ງສັນຍານປ້ອນເຂົ້າໄດ້.
@@ -109,6 +127,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Push%20Buttons/btn.jpg)
 
+Pinout Guide:
+![example.jpg](./Images/Push%20Buttons/Push%20Button%20Pinout%20Diagram.png)
+
 ### **Potentiometer (5kΩ)**
 
 - **ລາຍລະອຽດ**: ຕົວຕ້ານທານທີ່ສາມາດປັບຄ່າຄວາມຕ້ານທານດ້ວຍມືໄດ້.
@@ -117,6 +138,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Potentiometer/Potentiometer.jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/Potentiometer/potentiometer%20pinout.jpg)
 
 ### **Active Buzzer**
 
@@ -149,6 +173,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/16x2%20lcd%20display/16x2%20lcd%20display.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/16x2%20lcd%20display/lcd.png)
+
 ### **I2C Serial Adapter Board Module**
 
 - **ລາຍລະອຽດ**: ອະນຸຍາດໃຫ້ເຊື່ອມຕໍ່ອຸປະກອນ I2C ງ່າຍຂຶ້ນ ເຊັ່ນ: LCD ເຂົ້າກັບ Arduino.
@@ -158,14 +185,17 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/I2C%20Serial%20Adapter%20Board%20Module/I2C%20Serial%20Adapter%20Board%20Module.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/I2C%20Serial%20Adapter%20Board%20Module/i2c-pinout.webp)
+
 ### **7-Segment Display (Common Cathode +)**
 
 - **ລາຍລະອຽດ**: ໜ້າຈໍ 7-segment ໃຊ້ສຳລັບການສະແດງຕົວເລກ.
 - **ໜ້າທີ່ການໃຊ້ງານ**: ສະແດງຕົວເລກໃນໂຄງການຂອງທ່ານ, ທີ່ໃຊ້ທົ່ວໄປໃນໂມງ, ເຄື່ອງຈັບເວລາ, ຫຼື ເຄື່ອງນັບ.
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂມງດິຈິຕອລແບບງ່າຍໆ ເພື່ອສະແດງເວລາໃນຮູບແບບ 24 ຊົ່ວໂມງ.
 
-ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Images/7-Segment%20Display/7-Segment%20Display%20(Common%20Cathode%20+).jpeg>)
+ຮູບພາບອຸປະກອນ & Pinout:
+![example.jpg](./Images/7-Segment%20Display/7s-pinout.png)
 
 ### **4-Digit 7-Segment Display**
 
@@ -176,6 +206,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/4-Digit%207-Segment%20Display/4-Digit%207-Segment%20Display.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/4-Digit%207-Segment%20Display/pinout.png)
+
 ### **8x8 Dot Matrix Display**
 
 - **ລາຍລະອຽດ**: ຕາຂ່າຍຂອງໄຟ LED ທີ່ຈັດລຽງຢູ່ໃນຮູບແບບ matrix 8x8.
@@ -184,6 +217,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/8x8%20Dot%20Matrix%20Display/8x8%20Dot%20Matrix%20Display.jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/8x8%20Dot%20Matrix%20Display/pinout-8x8.jpg)
 
 ---
 
@@ -196,7 +232,10 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບອັດຕະໂນມັດໃນເຮືອນ ເພື່ອຄວບຄຸມພັດລົມໂດຍອີງໃສ່ອຸນຫະພູມຫ້ອງ ແລະ ລະດັບຄວາມຊຸ່ມຊື່ນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Images/Temperature/Temperature%20and%20Humidity%20Sensor%20(DHT11).jpeg>)
+![example.jpg](./Images/Temperature/Temperature%20and%20Humidity%20Sensor%20(DHT11).jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/Temperature/pinout.jpeg)
 
 ### **LM35 Temperature Sensor**
 
@@ -207,6 +246,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/LM35%20Temperature%20Sensor/LM35%20Temperature%20Sensor.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/LM35%20Temperature%20Sensor/LM35%20Pinout.png)
+
 ### **Tilt Sensor (x2)**
 
 - **ລາຍລະອຽດ**: ເຊັນເຊີທີ່ກວດຈັບການປ່ຽນແປງໃນທິດທາງ.
@@ -215,6 +257,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](<./Images/Tilt%20Sensor/Tilt%20Sensor%20(x2).jpeg>)
+
+Pinout Guide:
+![example.jpg](./Images/Tilt%20Sensor/Tilt%20Sensor%20Pinout.jpg)
 
 ### **Photoresistor (LDRs x3)**
 
@@ -234,6 +279,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/PIR%20Sensor/PIR%20Sensor.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/PIR%20Sensor/pinout.jpeg)
+
 ### **Ultrasonic Module**
 
 - **ລາຍລະອຽດ**: ເຊັນເຊີສຳລັບການວັດແທກໄລຍະທາງໂດຍໃຊ້ຄື້ນສຽງ.
@@ -242,6 +290,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Ultrasonic%20Module/Ultrasonic%20Module.jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/Ultrasonic%20Module/pinout.png)
 
 ### **Sound Sensor**
 
@@ -252,6 +303,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Sound%20Sensor/Sound%20Sensor.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Sound%20Sensor/pinout.jpeg)
+
 ### **Water Sensor**
 
 - **ລາຍລະອຽດ**: ເຊັນເຊີທີ່ກວດຈັບການມີຢູ່ຂອງນ້ຳ ຫຼື ຄວາມຊຸ່ມຊື່ນ.
@@ -260,6 +314,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Water%20Sensor/Water%20Sensor.jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/Water%20Sensor/Water%20Level%20Sensor%20Pinout.jpg)
 
 ### **Flame Sensor**
 
@@ -270,6 +327,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Flame%20Sensor/fsensor.jpg)
 
+Pinout Guide:
+![example.jpg](./Images/Flame%20Sensor/Flame%20Sensor%20Module%20Pinout.jpg)
+
 ### **RFID Module**
 
 - **ລາຍລະອຽດ**: ໂມດູນ Radio Frequency Identification ໃຊ້ສຳລັບການອ່ານແທັກ RFID.
@@ -278,6 +338,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/RFID%20Module/rfidmodule.webp)
+
+Pinout Guide:
+![example.jpg](./Images/RFID%20Module/rfid-module-pinout.png)
 
 ### **RFID Tag**
 
@@ -310,6 +373,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Joystick%20Module/Joystick%20Module.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Joystick%20Module/PS2%20Joystick%20Module%20Pinout.png)
+
 ### **4x4 Matrix Keyboard Module**
 
 - **ລາຍລະອຽດ**: ແປ້ນພິມທີ່ມີ 4 ແຖວ ແລະ 4 ຖັນຂອງປຸ່ມ.
@@ -328,6 +394,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Relay%20Module/Relay%20Module.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Relay%20Module/relay-pin.png)
+
 ---
 
 ## ມໍເຕີ ແລະ ຕົວຂັບ (Motors & Drivers)
@@ -341,6 +410,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Servo%20Motor/Servo%20Motor.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Servo%20Motor/servo-motor-pin.jpeg)
+
 ### **Stepper Motor**
 
 - **ລາຍລະອຽດ**: ມໍເຕີທີ່ເຄື່ອນທີ່ເປັນຂັ້ນຕອນທີ່ບໍ່ຕໍ່ເນື່ອງ.
@@ -350,6 +422,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Stepper%20Motor/Stepper%20Motor.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Stepper%20Motor/Stepper%20Motor%20Pinout.png)
+
 ### **Stepper Motor Driver Board**
 
 - **ລາຍລະອຽດ**: ແຜ່ນຂັບທີ່ໃຊ້ເພື່ອຄວບຄຸມມໍເຕີ Stepper.
@@ -358,6 +433,9 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Stepper%20Motor%20Driver%20Board/Stepper%20Motor%20Driver%20Board.jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/Stepper%20Motor%20Driver%20Board/ULN2003%20Stepper%20Motor%20Driver%20Pinout.png)
 
 ---
 
@@ -372,6 +450,9 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/Clock%20Module/Real-time%20Clock%20Module%20DS1302%20Image.jpeg)
 
+Pinout Guide:
+![example.jpg](./Images/Clock%20Module/DS1302%20Pinout.jpg)
+
 ### **74HC595 Chip**
 
 - **ລາຍລະອຽດ**: Shift register ທີ່ໃຊ້ເພື່ອຄວບຄຸມຜົນອອກຫຼາຍອັນດ້ວຍຈຳນວນຂານ້ອຍລົງ.
@@ -380,3 +461,6 @@
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Images/74HC595%20Chip/74HC595%20Chip.jpeg)
+
+Pinout Guide:
+![example.jpg](./Images/74HC595%20Chip/pinout.png)
