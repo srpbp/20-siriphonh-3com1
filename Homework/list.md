@@ -116,7 +116,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນປຸ່ມໝູນປັບລະດັບສຽງໃນເຄື່ອງຫຼິ້ນສຽງ ຫຼື ເປັນຕົວປັບຄວາມສະຫວ່າງສຳລັບລະບົບແສງສະຫວ່າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](<./Potentiometer/Potentiometer%20(5kΩ).jpeg>)
+![example.jpg](./Potentiometer/Potentiometer%20(5kΩ).jpeg)
 
 ### **Active Buzzer**
 
