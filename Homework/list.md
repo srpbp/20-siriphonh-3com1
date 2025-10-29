@@ -11,9 +11,6 @@
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Arduino/arduino-board.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Breadboard**
 
 - **ລາຍລະອຽດ**: ແຜ່ນວົງຈອນທົດລອງອະນຸຍາດໃຫ້ທ່ານສ້າງວົງຈອນໂດຍບໍ່ຕ້ອງບັດກີ, ໂດຍໃຊ້ຮູເພື່ອໃສ່ອົງປະກອບຕ່າງໆ.
@@ -23,9 +20,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Breadboard/breadboard.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **USB Cable**
 
 - **ລາຍລະອຽດ**: ສາຍ USB A ຫາ B ເຊື່ອມຕໍ່ແຜ່ນວົງຈອນ Arduino ຂອງທ່ານກັບຄອມພິວເຕີ ເພື່ອອັບໂຫລດໂຄດ ແລະ ສະໜອງພະລັງງານໃຫ້ແກ່ແຜ່ນວົງຈອນ.
@@ -34,9 +28,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./USB%20Cable/Usb.jpg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -51,9 +42,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Jumper%20wires%20%28male-to-male%29/wire-m2m.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Jumper Wires (Male-to-Female)**
 
 - **ລາຍລະອຽດ**: ສາຍໄຟທີ່ມີຫົວເຊື່ອມຕໍ່ແບບຜູ້ຢູ່ສົ້ນໜຶ່ງ ແລະ ຫົວເຊື່ອມຕໍ່ແບບແມ່ຢູ່ສົ້ນອື່ນ.
@@ -62,9 +50,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Jumper%20wires%20%28male-to-female%29%29/jumper%20wire%20male-to-female.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **Jumper Wires (Female-to-Female)**
 
@@ -75,9 +60,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Jumper%20Wires%20%28Female-to-Female%29/Jumper%20Wires%20Female-to-Female.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **9V Battery Connector**
 
 - **ລາຍລະອຽດ**: ຕົວເຊື່ອມຕໍ່ສຳລັບການຕິດແບັດເຕີຣີ 9V ເຂົ້າກັບແຜ່ນວົງຈອນ Arduino.
@@ -86,9 +68,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./9V%20Battery%20Connector/9V%20Battery%20Connector.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -103,9 +82,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./LEDs/LEDs%20%28Red%2C%20Yellow%2C%20Blue%2C%20RGB%29.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **RGB Module**
 
 - **ລາຍລະອຽດ**: ໂມດູນທີ່ມີໄຟ LED ສີແດງ, ສີຂຽວ, ແລະ ສີຟ້າ ເພື່ອຜະລິດສີຕ່າງໆ.
@@ -114,9 +90,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./RGB%20Module/RGB%20Module.jpg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **Resistors (220Ω, 1kΩ, 10kΩ)**
 
@@ -127,9 +100,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Resistors%20%28220%CE%A9%2C%201k%CE%A9%2C%2010k%CE%A9%29/Resistors%20%28220%CE%A9%2C%201k%CE%A9%2C%2010k%CE%A9%29.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Push Buttons (x4 with Lids)**
 
 - **ລາຍລະອຽດ**: ຊຸດປຸ່ມຕ່າງໆທີ່ສາມາດກົດເພື່ອສົ່ງສັນຍານປ້ອນເຂົ້າໄດ້.
@@ -138,9 +108,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Push%20Buttons%20%28x4%20with%20Lids%29/Push%20Buttons%20%28x4%20with%20Lids%29.jpg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **Potentiometer (5kΩ)**
 
@@ -151,9 +118,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Potentiometer%20%285k%CE%A9%29/Potentiometer%20%285k%CE%A9%29.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Active Buzzer**
 
 - **ລາຍລະອຽດ**: Buzzer ທີ່ປ່ອຍສຽງເມື່ອໄດ້ຮັບພະລັງງານ.
@@ -163,9 +127,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./active%20buzzers/active%20buzzers.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Passive Buzzer**
 
 - **ລາຍລະອຽດ**: Buzzer ທີ່ຜະລິດສຽງເມື່ອມັນໄດ້ຮັບສັນຍານຄື້ນສີ່ຫຼ່ຽມເທົ່ານັ້ນ.
@@ -174,9 +135,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./passive%20buzzer/passive%20buzzer.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -191,9 +149,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./16x2%20lcd%20display/16x2%20lcd%20display.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **I2C Serial Adapter Board Module**
 
 - **ລາຍລະອຽດ**: ອະນຸຍາດໃຫ້ເຊື່ອມຕໍ່ອຸປະກອນ I2C ງ່າຍຂຶ້ນ ເຊັ່ນ: LCD ເຂົ້າກັບ Arduino.
@@ -202,9 +157,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./I2C%20Serial%20Adapter%20Board%20Module/I2C%20Serial%20Adapter%20Board%20Module.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **7-Segment Display (Common Cathode +)**
 
@@ -215,9 +167,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./7-Segment%20Display%20%28Common%20Cathode%20%2B%29/7-Segment%20Display%20%28Common%20Cathode%20%2B%29.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **4-Digit 7-Segment Display**
 
 - **ລາຍລະອຽດ**: ໜ້າຈໍທີ່ສະແດງສີ່ຕົວເລກ ໂດຍໃຊ້ໜ້າຈໍ 7-segment.
@@ -227,9 +176,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./4-Digit%207-Segment%20Display/4-Digit%207-Segment%20Display.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **8x8 Dot Matrix Display**
 
 - **ລາຍລະອຽດ**: ຕາຂ່າຍຂອງໄຟ LED ທີ່ຈັດລຽງຢູ່ໃນຮູບແບບ matrix 8x8.
@@ -238,9 +184,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./8x8%20Dot%20Matrix%20Display/8x8%20Dot%20Matrix%20Display.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -255,9 +198,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Temperature%20and%20Humidity%20Sensor%20%28DHT11%29/Temperature%20and%20Humidity%20Sensor%20%28DHT11%29.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **LM35 Temperature Sensor**
 
 - **ລາຍລະອຽດ**: ເຊັນເຊີທີ່ວັດແທກອຸນຫະພູມເປັນອົງສາເຊນຊຽສ.
@@ -266,9 +206,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./LM35%20Temperature%20Sensor/LM35%20Temperature%20Sensor.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **Tilt Sensor (x2)**
 
@@ -279,9 +216,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Tilt%20Sensor%20%28x2%29/Tilt%20Sensor%20%28x2%29.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Photoresistor (LDRs x3)**
 
 - **ລາຍລະອຽດ**: ຕົວຕ້ານທານທີ່ຂຶ້ນກັບແສງ ທີ່ປ່ຽນແປງຄ່າຄວາມຕ້ານທານໂດຍອີງໃສ່ການສໍາຜັດກັບແສງ.
@@ -290,9 +224,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Photoresistor%20%28LDRs%20x3%29/Photoresistor%20%28LDRs%20x3%29.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **PIR Sensor**
 
@@ -303,9 +234,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./PIR%20Sensor/PIR%20Sensor.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Ultrasonic Module**
 
 - **ລາຍລະອຽດ**: ເຊັນເຊີສຳລັບການວັດແທກໄລຍະທາງໂດຍໃຊ້ຄື້ນສຽງ.
@@ -314,9 +242,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Ultrasonic%20Module/Ultrasonic%20Module.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **Sound Sensor**
 
@@ -327,9 +252,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Sound%20Sensor/Sound%20Sensor.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Water Sensor**
 
 - **ລາຍລະອຽດ**: ເຊັນເຊີທີ່ກວດຈັບການມີຢູ່ຂອງນ້ຳ ຫຼື ຄວາມຊຸ່ມຊື່ນ.
@@ -338,9 +260,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Water%20Sensor/Water%20Sensor.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **Flame Sensor**
 
@@ -351,9 +270,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Flame%20Sensor/Flame%20Sensor.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **RFID Module**
 
 - **ລາຍລະອຽດ**: ໂມດູນ Radio Frequency Identification ໃຊ້ສຳລັບການອ່ານແທັກ RFID.
@@ -363,9 +279,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./RFID%20Module/RFID%20Module.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **RFID Tag**
 
 - **ລາຍລະອຽດ**: ແທັກຂະໜາດນ້ອຍທີ່ມີຊິບ RFID ສໍາລັບຈຸດປະສົງການກໍານົດຕົວຕົນ.
@@ -374,9 +287,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./RFID%20Tag/RFID%20Tag.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -391,9 +301,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Infrared%20Remote%20Control/Infrared%20Remote%20Control.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Joystick Module**
 
 - **ລາຍລະອຽດ**: Joystick 2 ແກນ ສຳລັບການປ້ອນເຂົ້າ.
@@ -402,9 +309,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Joystick%20Module/Joystick%20Module.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ### **4x4 Matrix Keyboard Module**
 
@@ -415,9 +319,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./4x4%20Matrix%20Keyboard%20Module/4x4%20Matrix%20Keyboard%20Module.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Relay Module**
 
 - **ລາຍລະອຽດ**: ໂມດູນ relay ທີ່ໃຊ້ສຳລັບການຄວບຄຸມອຸປະກອນແຮງດັນສູງດ້ວຍ Arduino.
@@ -426,9 +327,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Relay%20Module/Relay%20Module.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -443,9 +341,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Servo%20Motor/Servo%20Motor.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Stepper Motor**
 
 - **ລາຍລະອຽດ**: ມໍເຕີທີ່ເຄື່ອນທີ່ເປັນຂັ້ນຕອນທີ່ບໍ່ຕໍ່ເນື່ອງ.
@@ -455,9 +350,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Stepper%20Motor/Stepper%20Motor.jpeg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **Stepper Motor Driver Board**
 
 - **ລາຍລະອຽດ**: ແຜ່ນຂັບທີ່ໃຊ້ເພື່ອຄວບຄຸມມໍເຕີ Stepper.
@@ -466,9 +358,6 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Stepper%20Motor%20Driver%20Board/Stepper%20Motor%20Driver%20Board.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
 
 ---
 
@@ -483,9 +372,6 @@ PINOUT Guide:
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./Arduino/arduino-board.jpg)
 
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
-
 ### **74HC595 Chip**
 
 - **ລາຍລະອຽດ**: Shift register ທີ່ໃຊ້ເພື່ອຄວບຄຸມຜົນອອກຫຼາຍອັນດ້ວຍຈຳນວນຂານ້ອຍລົງ.
@@ -494,6 +380,3 @@ PINOUT Guide:
 
 ຮູບພາບອຸປະກອນ:
 ![example.jpg](./74HC595%20Chip/74HC595%20Chip.jpeg)
-
-PINOUT Guide:
-![example.jpg](./Arduino/Arduino-board-pinout.jpg)
