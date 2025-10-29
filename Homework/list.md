@@ -21,7 +21,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ສຳລັບການສ້າງແບບຈຳລອງວົງຈອນເຊັນເຊີວັດແທກອຸນຫະພູມແບບງ່າຍໆ ກ່ອນທີ່ຈະໂອນຍ້າຍໄປໃສ່ແຜ່ນວົງຈອນ PCB ຖາວອນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Breadboard/breadboard.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -33,7 +33,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອອັບໂຫລດໂປຣແກຣມ Arduino (ເຊັ່ນ: ການຄວບຄຸມມໍເຕີ Stepper) ຈາກຄອມພິວເຕີຂອງທ່ານໄປຍັງ Arduino.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./USB%20Cable/Usb.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -49,7 +49,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ເຊັນເຊີກວດຈັບການເຄື່ອນໄຫວ PIR ເຂົ້າກັບ Arduino ສໍາລັບລະບົບກວດຈັບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Jumper%20wires%20%28male-to-male%29/wire-m2m.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -61,7 +61,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ໂມດູນເຊັນເຊີອຸນຫະພູມເຂົ້າກັບແຜ່ນວົງຈອນ Arduino Uno.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Jumper%20wires%20%28male-to-female%29%29/jumper%20wire%20male-to-female.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -73,7 +73,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ໂມດູນ RGB LED ເຂົ້າກັບແຜ່ນວົງຈອນທົດລອງ ແລະ Arduino.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Jumper%20Wires%20%28Female-to-Female%29/Jumper%20Wires%20Female-to-Female.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -85,7 +85,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການ Arduino ແບບພົກພາ ທີ່ບໍ່ມີພະລັງງານ USB ໃຫ້ໃຊ້, ເຊັ່ນ: ສະຖານີວັດແທກດິນຟ້າອາກາດແບບໄຮ້ສາຍ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./9V%20Battery%20Connector/9V%20Battery%20Connector.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -101,7 +101,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງສະຖານະຂອງອຸປະກອນ IoT, ເຊັ່ນ: ສະແດງເວລາທີ່ລະບົບຖືກເປີດ (ໄຟ LED ສີຂຽວ), ກຳລັງໃຊ້ງານ (ໄຟ LED ສີເຫຼືອງ), ຫຼື ເກີດຂໍ້ຜິດພາດ (ໄຟ LED ສີແດງ).
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./LEDs/LEDs%20%28Red%2C%20Yellow%2C%20Blue%2C%20RGB%29.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -113,7 +113,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສ້າງໄຟປ່ຽນສີໃນໂຄງການໄຟອັດສະລິຍະ, ເຊັ່ນ: ສໍາລັບການໃຫ້ແສງສະຫວ່າງຕາມບັນຍາກາດ ຫຼື ການຄວບຄຸມແສງສະຫວ່າງໃນຫ້ອງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./RGB%20Module/RGB%20Module.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -125,7 +125,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອຈຳກັດກະແສໄຟຟ້າໄປຍັງໄຟ LED ໃນວົງຈອນໄຟກະພິບ ເພື່ອປ້ອງກັນບໍ່ໃຫ້ມັນໄໝ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Resistors%20%28220%CE%A9%2C%201k%CE%A9%2C%2010k%CE%A9%29/Resistors%20%28220%CE%A9%2C%201k%CE%A9%2C%2010k%CE%A9%29.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -137,7 +137,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພແບບງ່າຍໆ ທີ່ການກົດປຸ່ມສາມາດກະຕຸ້ນສຽງເຕືອນ ຫຼື ປິດລະບົບ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Push%20Buttons%20%28x4%20with%20Lids%29/Push%20Buttons%20%28x4%20with%20Lids%29.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -149,7 +149,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນປຸ່ມໝູນປັບລະດັບສຽງໃນເຄື່ອງຫຼິ້ນສຽງ ຫຼື ເປັນຕົວປັບຄວາມສະຫວ່າງສຳລັບລະບົບແສງສະຫວ່າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Potentiometer%20%285k%CE%A9%29/Potentiometer%20%285k%CE%A9%29.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -161,7 +161,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສົ່ງສຽງເຕືອນເມື່ອເຊັນເຊີກວດຈັບການເຄື່ອນໄຫວຖືກກະຕຸ້ນໃນລະບົບຮັກສາຄວາມປອດໄພໃນເຮືອນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./active%20buzzers/active%20buzzers.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -173,7 +173,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການຈັບເວລາ ເພື່ອສົ່ງສຽງບີບຫາຜູ້ໃຊ້ເມື່ອໝົດເວລາ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./passive%20buzzer/passive%20buzzer.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -189,7 +189,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງຄ່າອຸນຫະພູມທີ່ອ່ານໄດ້ຈາກເຊັນເຊີ DHT11 ໃນລະບົບຕິດຕາມສະພາບອາກາດ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./16x2%20lcd%20display/16x2%20lcd%20display.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -201,7 +201,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ກັບ LCD ເພື່ອປະຢັດຂາ ແລະ ອະນຸຍາດໃຫ້ສື່ສານງ່າຍຂຶ້ນສຳລັບການສະແດງຂໍ້ມູນໃນໂຄງການ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./I2C%20Serial%20Adapter%20Board%20Module/I2C%20Serial%20Adapter%20Board%20Module.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -213,7 +213,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂມງດິຈິຕອລແບບງ່າຍໆ ເພື່ອສະແດງເວລາໃນຮູບແບບ 24 ຊົ່ວໂມງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./7-Segment%20Display%20%28Common%20Cathode%20%2B%29/7-Segment%20Display%20%28Common%20Cathode%20%2B%29.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -225,7 +225,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການນັບຖອຍຫຼັງ ເພື່ອສະແດງເວລາທີ່ຍັງເຫຼືອ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./4-Digit%207-Segment%20Display/4-Digit%207-Segment%20Display.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -237,7 +237,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງຂໍ້ຄວາມເລື່ອນ ຫຼື ອານິເມຊັນ, ເຊັ່ນ: ການສະແດງຂໍ້ຄວາມ ຫຼື ຮູບພາບທີ່ກຳນົດເອງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./8x8%20Dot%20Matrix%20Display/8x8%20Dot%20Matrix%20Display.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -253,7 +253,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບອັດຕະໂນມັດໃນເຮືອນ ເພື່ອຄວບຄຸມພັດລົມໂດຍອີງໃສ່ອຸນຫະພູມຫ້ອງ ແລະ ລະດັບຄວາມຊຸ່ມຊື່ນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Temperature%20and%20Humidity%20Sensor%20%28DHT11%29/Temperature%20and%20Humidity%20Sensor%20%28DHT11%29.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -265,7 +265,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຕິດຕາມພືດ ເພື່ອວັດແທກອຸນຫະພູມຂອງດິນ ແລະ ຄວບຄຸມການຊົນລະປະທານ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./LM35%20Temperature%20Sensor/LM35%20Temperature%20Sensor.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -277,7 +277,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບເປີດປະຕູອັດຕະໂນມັດ ທີ່ເປີດເມື່ອເຊັນເຊີກວດຈັບການອຽງກວດພົບຄົນຍ່າງເຂົ້າໃກ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Tilt%20Sensor%20%28x2%29/Tilt%20Sensor%20%28x2%29.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -289,7 +289,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໄຟອັດຕະໂນມັດ ທີ່ເປີດ ຫຼື ປິດໄຟໂດຍອີງໃສ່ລະດັບແສງອ້ອມຂ້າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Photoresistor%20%28LDRs%20x3%29/Photoresistor%20%28LDRs%20x3%29.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -301,7 +301,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພ ເພື່ອກະຕຸ້ນສັນຍານເຕືອນ ຫຼື ໄຟ ເມື່ອກວດພົບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./PIR%20Sensor/PIR%20Sensor.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -313,7 +313,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນຫຸ່ນຍົນເພື່ອຫຼີກລ້ຽງອຸປະສັກ ໂດຍການວັດແທກໄລຍະທາງໄປຫາວັດຖຸໃນເສັ້ນທາງຂອງມັນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Ultrasonic%20Module/Ultrasonic%20Module.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -325,7 +325,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນການສະແດງແສງທີ່ກະຕຸ້ນດ້ວຍສຽງ ທີ່ປ່ຽນໄຟໂດຍອີງໃສ່ສຽງເພງ ຫຼື ລະດັບສຽງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Sound%20Sensor/Sound%20Sensor.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -337,7 +337,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບການຫົດນ້ຳສວນ ເພື່ອກວດຈັບຄວາມຊຸ່ມຊື່ນຂອງດິນ ແລະ ເປີດໃຊ້ການຫົດນ້ຳເມື່ອຈຳເປັນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Water%20Sensor/Water%20Sensor.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -349,7 +349,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບສັນຍານເຕືອນໄຟ ເພື່ອກະຕຸ້ນການແຈ້ງເຕືອນເມື່ອກວດພົບໄຟ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Flame%20Sensor/Flame%20Sensor.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -361,7 +361,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຄວບຄຸມການເຂົ້າເຖິງ ເພື່ອອະນຸຍາດໃຫ້ເຂົ້າໄດ້ເມື່ອກວດພົບແທັກ RFID.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./RFID%20Module/RFID%20Module.jpg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -373,7 +373,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນບັດປະຈຳຕົວສຳລັບລະບົບຮັກສາຄວາມປອດໄພ, ອະນຸຍາດໃຫ້ບຸກຄະລາກອນທີ່ໄດ້ຮັບອະນຸຍາດເຂົ້າໂດຍການສະແກນແທັກ RFID.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./RFID%20Tag/RFID%20Tag.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -389,7 +389,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໂຮມເທຍເຕີ ເພື່ອຄວບຄຸມໂທລະທັດ ຫຼື ລະບົບສຽງຈາກໄລຍະໄກ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Infrared%20Remote%20Control/Infrared%20Remote%20Control.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -401,7 +401,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນຫຸ່ນຍົນເພື່ອຄວບຄຸມການເຄື່ອນໄຫວໂດຍອີງໃສ່ການປ້ອນເຂົ້າຈາກ joystick.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Joystick%20Module/Joystick%20Module.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -413,7 +413,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພ ເພື່ອປ້ອນລະຫັດຜ່ານ ແລະ ປົດລັອກປະຕູ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./4x4%20Matrix%20Keyboard%20Module/4x4%20Matrix%20Keyboard%20Module.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -425,7 +425,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໄຟອັດຕະໂນມັດໃນເຮືອນ ເພື່ອຄວບຄຸມໄຟໂດຍອີງໃສ່ເວລາຂອງມື້ ຫຼື ການກວດຈັບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Relay%20Module/Relay%20Module.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -441,7 +441,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນແຂນຫຸ່ນຍົນ ເພື່ອຄວບຄຸມການເຄື່ອນໄຫວຂອງມັນໃນວຽກງານການຜະລິດ ຫຼື ການປະກອບ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Servo%20Motor/Servo%20Motor.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -453,7 +453,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນເຄື່ອງພິມ 3D ເພື່ອຍ້າຍຫົວພິມດ້ວຍຄວາມຖືກຕ້ອງສູງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Stepper%20Motor/Stepper%20Motor.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -465,7 +465,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອຄວບຄຸມມໍເຕີ Stepper ໃນເຄື່ອງຈັກ CNC ຫຼື ເຄື່ອງພິມ 3D.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Stepper%20Motor%20Driver%20Board/Stepper%20Motor%20Driver%20Board.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
@@ -493,7 +493,7 @@ PINOUT Guide:
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂຄງການເພື່ອຄວບຄຸມ matrix ຂອງໄຟ LED ຂະໜາດໃຫຍ່ສຳລັບຜົນກະທົບທາງສາຍຕາ ຫຼື ໜ້າຈໍສະແດງຜົນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./74HC595%20Chip/74HC595%20Chip.jpeg)
 
 PINOUT Guide:
 ![example.jpg](./Arduino/Arduino-board-pinout.jpg)
