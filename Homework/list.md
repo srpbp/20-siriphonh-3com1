@@ -40,7 +40,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ເຊັນເຊີກວດຈັບການເຄື່ອນໄຫວ PIR ເຂົ້າກັບ Arduino ສໍາລັບລະບົບກວດຈັບການເຄື່ອນໄຫວ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Jumper%20wires%20%28male-to-male%29/wire-m2m.jpg)
+![example.jpg](./Jumprm2m/wire-m2m.jpg)
 
 ### **Jumper Wires (Male-to-Female)**
 
@@ -49,7 +49,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ໂມດູນເຊັນເຊີອຸນຫະພູມເຂົ້າກັບແຜ່ນວົງຈອນ Arduino Uno.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Jumper%20wires%20%28male-to-female%29%29/jumper%20wire%20male-to-female.jpeg)
+![example.jpg](./Jumprm2f/jumper%20wire%20male-to-female.jpeg)
 
 ### **Jumper Wires (Female-to-Female)**
 
@@ -58,7 +58,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອເຊື່ອມຕໍ່ໂມດູນ RGB LED ເຂົ້າກັບແຜ່ນວົງຈອນທົດລອງ ແລະ Arduino.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Jumper%20Wires%20%28Female-to-Female%29/Jumper%20Wires%20Female-to-Female.jpeg)
+![example.jpg](./Jumprf2f/Jumper%20Wires%20Female-to-Female.jpeg)
 
 ### **9V Battery Connector**
 
@@ -80,7 +80,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອສະແດງສະຖານະຂອງອຸປະກອນ IoT, ເຊັ່ນ: ສະແດງເວລາທີ່ລະບົບຖືກເປີດ (ໄຟ LED ສີຂຽວ), ກຳລັງໃຊ້ງານ (ໄຟ LED ສີເຫຼືອງ), ຫຼື ເກີດຂໍ້ຜິດພາດ (ໄຟ LED ສີແດງ).
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./LEDs/LEDs%20%28Red%2C%20Yellow%2C%20Blue%2C%20RGB%29.jpeg)
+![example.jpg](<./LEDs/LEDs%20(Red,%20Yellow,%20Blue,%20RGB).jpeg>)
 
 ### **RGB Module**
 
@@ -98,7 +98,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເພື່ອຈຳກັດກະແສໄຟຟ້າໄປຍັງໄຟ LED ໃນວົງຈອນໄຟກະພິບ ເພື່ອປ້ອງກັນບໍ່ໃຫ້ມັນໄໝ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Resistors%20%28220%CE%A9%2C%201k%CE%A9%2C%2010k%CE%A9%29/Resistors%20%28220%CE%A9%2C%201k%CE%A9%2C%2010k%CE%A9%29.jpg)
+![example.jpg](<./Resistors/Resistors%20(220Ω,%201kΩ,%2010kΩ).jpg>)
 
 ### **Push Buttons (x4 with Lids)**
 
@@ -107,7 +107,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບຮັກສາຄວາມປອດໄພແບບງ່າຍໆ ທີ່ການກົດປຸ່ມສາມາດກະຕຸ້ນສຽງເຕືອນ ຫຼື ປິດລະບົບ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Push%20Buttons%20%28x4%20with%20Lids%29/Push%20Buttons%20%28x4%20with%20Lids%29.jpg)
+![example.jpg](<./Push%20Buttons/Push%20Buttons%20(x4%20with%20Lids).jpg>)
 
 ### **Potentiometer (5kΩ)**
 
@@ -116,7 +116,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ເປັນປຸ່ມໝູນປັບລະດັບສຽງໃນເຄື່ອງຫຼິ້ນສຽງ ຫຼື ເປັນຕົວປັບຄວາມສະຫວ່າງສຳລັບລະບົບແສງສະຫວ່າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Potentiometer%20%285k%CE%A9%29/Potentiometer%20%285k%CE%A9%29.jpeg)
+![example.jpg](<./Potentiometer/Potentiometer%20(5kΩ).jpeg>)
 
 ### **Active Buzzer**
 
@@ -165,7 +165,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນໂມງດິຈິຕອລແບບງ່າຍໆ ເພື່ອສະແດງເວລາໃນຮູບແບບ 24 ຊົ່ວໂມງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./7-Segment%20Display%20%28Common%20Cathode%20%2B%29/7-Segment%20Display%20%28Common%20Cathode%20%2B%29.jpeg)
+![example.jpg](<./7-Segment%20Display/7-Segment%20Display%20(Common%20Cathode%20+).jpeg>)
 
 ### **4-Digit 7-Segment Display**
 
@@ -196,7 +196,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບອັດຕະໂນມັດໃນເຮືອນ ເພື່ອຄວບຄຸມພັດລົມໂດຍອີງໃສ່ອຸນຫະພູມຫ້ອງ ແລະ ລະດັບຄວາມຊຸ່ມຊື່ນ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Temperature%20and%20Humidity%20Sensor%20%28DHT11%29/Temperature%20and%20Humidity%20Sensor%20%28DHT11%29.jpeg)
+![example.jpg](<./Temperature/Temperature%20and%20Humidity%20Sensor%20(DHT11).jpeg>)
 
 ### **LM35 Temperature Sensor**
 
@@ -214,7 +214,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບເປີດປະຕູອັດຕະໂນມັດ ທີ່ເປີດເມື່ອເຊັນເຊີກວດຈັບການອຽງກວດພົບຄົນຍ່າງເຂົ້າໃກ້.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Tilt%20Sensor%20%28x2%29/Tilt%20Sensor%20%28x2%29.jpeg)
+![example.jpg](<./Tilt%20Sensor/Tilt%20Sensor%20(x2).jpeg>)
 
 ### **Photoresistor (LDRs x3)**
 
@@ -223,7 +223,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບໄຟອັດຕະໂນມັດ ທີ່ເປີດ ຫຼື ປິດໄຟໂດຍອີງໃສ່ລະດັບແສງອ້ອມຂ້າງ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Photoresistor%20%28LDRs%20x3%29/Photoresistor%20%28LDRs%20x3%29.jpeg)
+![example.jpg](<./Photoresistor/Photoresistor%20(LDRs%20x3).jpeg>)
 
 ### **PIR Sensor**
 
@@ -370,7 +370,7 @@
 - **ຕົວຢ່າງ**: ໃຊ້ໃນລະບົບການຕິດຕາມເວລາສຳລັບໂຄງການ ຫຼື ຕາຕະລາງເຫດການ.
 
 ຮູບພາບອຸປະກອນ:
-![example.jpg](./Arduino/arduino-board.jpg)
+![example.jpg](./Clock%20Module/Real-time%20Clock%20Module%20DS1302%20Image.jpeg)
 
 ### **74HC595 Chip**
 
